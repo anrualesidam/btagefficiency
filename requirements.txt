@@ -2,3 +2,4 @@ coffea>=0.7.20
 matplotlib==3.3.1
 numpy==1.19.1
 hist
+streamlit==1.1
